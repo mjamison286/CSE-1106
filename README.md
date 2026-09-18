@@ -9,7 +9,8 @@ as well as practice using things like git and github.
 
 ## Languages
 
-This repo will contain mostly C and C++ code.
+This repo will contain mostly C and C++ code, although I hope to branch out more to other languages such as Python.
+Additionally I hope to get better at using markdown when writing documentation for my projects.
 
 ## How to Run
 
